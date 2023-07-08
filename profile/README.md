@@ -1,6 +1,5 @@
 # APIOps In Action
 
-# Archived. Please do not use
 
 - [Chapter 2](https://github.com/APIOpsInAction/chapter2)
 - [Chapter 3](https://github.com/APIOpsInAction/chapter3)
